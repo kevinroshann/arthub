@@ -1,0 +1,76 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Portfolio Website",
+      "image": "portfolio_website.jpg",
+      "date": "2023-06-15",
+      "description": "A sleek, responsive personal portfolio to showcase work and achievements.",
+      "forked": false,
+      "yourproject": true
+    },
+    {
+      "id": "2",
+      "title": "Chat Application",
+      "image": "chat_application.jpg",
+      "date": "2023-07-10",
+      "description": "A real-time chat app with messaging, notifications, and user authentication.",
+      "forked": true,
+      "yourproject": false
+    },
+    {
+      "id": "3",
+      "title": "E-commerce Platform",
+      "image": "ecommerce_platform.jpg",
+      "date": "2023-08-05",
+      "description": "An online store with secure payments, product pages, and order management.",
+      "forked": false,
+      "yourproject": true
+    },
+    {
+      "id": "4",
+      "title": "Weather Dashboard",
+      "image": "weather_dashboard.jpg",
+      "date": "2023-09-20",
+      "description": "A weather forecast app that displays current conditions, forecasts, and weather maps.",
+      "forked": true,
+      "yourproject": false
+    },
+    {
+      "id": "5",
+      "title": "Task Manager",
+      "image": "task_manager.jpg",
+      "date": "2023-10-01",
+      "description": "A project management tool with task tracking, deadlines, and priority setting.",
+      "forked": false,
+      "yourproject": true
+    },
+    {
+      "id": "6",
+      "title": "Smart Home Dashboard",
+      "image": "smart_home_dashboard.jpg",
+      "date": "2023-10-10",
+      "description": "A control panel for IoT devices, allowing users to manage and automate home systems.",
+      "forked": true,
+      "yourproject": false
+    },
+    {
+      "id": "7",
+      "title": "Recipe App",
+      "image": "recipe_app.jpg",
+      "date": "2023-11-03",
+      "description": "An app for finding, saving, and sharing recipes with custom meal plans.",
+      "forked": true,
+      "yourproject": false
+    },
+    {
+      "id": "8",
+      "title": "AI Image Generator",
+      "image": "ai_image_generator.jpg",
+      "date": "2023-12-12",
+      "description": "An application that generates images based on text input using AI models.",
+      "forked": false,
+      "yourproject": true
+    }
+  ]
+}
